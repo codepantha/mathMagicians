@@ -11,11 +11,11 @@
     <br />
     <a href="#"> <strong>Video Demo </strong> </a>
     ·
-    <a href=""><strong>Live Demo - Coming soon...</strong></a>
+    <a href=""><strong>Live Demo - Coming soon</strong></a>
     ·
-    <a href="https://github.com/codepantherr/mathMagicians/issues">Report Bug</a>
+    <a href="https://github.com/codepantherr/math-magicians/issues">Report Bug</a>
     ·
-    <a href="https://github.com/codepantherr/mathMagicians/issues">Request Feature</a>
+    <a href="https://github.com/codepantherr/math-magicians/issues">Request Feature</a>
   </p>
 </p>
 
@@ -78,7 +78,7 @@ Read a random math-related quote.
 
 1. Clone the repo
    ```sh
-   https://github.com/codepantherr/mathMagicians.git
+   https://github.com/codepantherr/math-magicians.git
    ```
 
 2. Install NPM packages
@@ -92,7 +92,7 @@ Read a random math-related quote.
 
 ## Roadmap
 
-See the [open issues](https://github.com/codepantherr/mathMagicians/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/codepantherr/math-magicians/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 

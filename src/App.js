@@ -8,12 +8,29 @@ import './App.css';
 class App extends Component {
   constructor() {
     super();
+
+    this.state = {
+      total: null,
+      next: null,
+      operation: null,
+    };
   }
 
+  onButtonPress = (obj) => {
+    this.setState(obj);
+  };
+
   render() {
+    const { total, next, operation } = this.state;
+    const calcOperands = {
+      total,
+      next,
+      operation,
+    };
+
     return (
       <div className="App">
-        <Calculator />
+        <Calculator calcOperands={calcOperands} onButtonPress={this.onButtonPress} />
       </div>
     );
   }

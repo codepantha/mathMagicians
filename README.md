@@ -3,9 +3,8 @@
 
   <h3 align="center">Math Magicians</h3>
 
-  <div align="center">
-    ![Math Magicians](mathmagicians.gif)
-  </div>
+
+  ![Math Magicians](mathmagicians.gif)
 
   <p align="center">
     "Math magicians" is a Single Page Application for all fans of mathematics built with React js.

@@ -4,7 +4,7 @@
   <h3 align="center">Math Magicians</h3>
 
   <div align="center">
-    ![Math Magicians](src/mathmagicians.gif)
+    ![Math Magicians](mathmagicians.gif)
   </div>
 
   <p align="center">

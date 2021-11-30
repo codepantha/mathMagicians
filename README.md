@@ -3,15 +3,18 @@
 
   <h3 align="center">Math Magicians</h3>
 
+
+  ![Math Magicians](mathmagicians.gif)
+
   <p align="center">
     "Math magicians" is a Single Page Application for all fans of mathematics built with React js.
     <br />
     <a href="#"><strong>Explore the docs 👇🏽</strong></a>
     <br />
     <br />
-    <a href="#"> <strong>Video Demo </strong> </a>
+    <a href="#"> <strong>Video Demo Coming Soon...</strong> </a>
     ·
-    <a href=""><strong>Live Demo - Coming soon...</strong></a>
+    <a href="https://mathmagic.netlify.app/"><strong>Live Demo</strong></a>
     ·
     <a href="https://github.com/codepantherr/mathMagicians/issues">Report Bug</a>
     ·

@@ -1,0 +1,18 @@
+.navbar__container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar__container-logo {
+  margin-right: auto;
+}
+
+.navbar__container-navlinks_link {
+  margin-right: 1rem;
+  flex: 1;
+}
+
+.no_underline {
+  text-decoration: none;
+}

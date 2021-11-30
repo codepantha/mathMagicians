@@ -1,3 +1,10 @@
+.calc__page-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .calc__container {
   text-align: center;
   width: 90%;
@@ -50,8 +57,17 @@
   grid-column: 1  / span 2;
 }
 
+@media screen and (min-width: 900px) {
+  .calc__page-container {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .calc__container {
     width: 50%;
+    margin: 0;
   }
 }

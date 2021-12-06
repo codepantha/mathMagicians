@@ -14,7 +14,8 @@
     <br />
     <a href="#"> <strong>Video Demo Coming Soon...</strong> </a>
     ·
-    <a href="https://mathmagic.netlify.app/"><strong>Live Demo</strong></a>
+    <a href="https://mathmagic.netlify.app/"><strong>Live Demo Netlify</strong></a>
+    <a href="https://math-and-magic.herokuapp.com//"><strong>Live Demo Heroku</strong></a>
     ·
     <a href="https://github.com/codepantherr/mathMagicians/issues">Report Bug</a>
     ·

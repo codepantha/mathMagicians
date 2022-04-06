@@ -17,9 +17,9 @@
     <a href="https://mathmagic.netlify.app/"><strong>Live Demo Netlify</strong></a>
     <a href="https://math-and-magic.herokuapp.com//"><strong>Live Demo Heroku</strong></a>
     ·
-    <a href="https://github.com/codepantherr/mathMagicians/issues">Report Bug</a>
+    <a href="https://github.com/codepantha/mathMagicians/issues">Report Bug</a>
     ·
-    <a href="https://github.com/codepantherr/mathMagicians/issues">Request Feature</a>
+    <a href="https://github.com/codepantha/mathMagicians/issues">Request Feature</a>
   </p>
 </p>
 
@@ -64,8 +64,8 @@ Read a random math-related quote.
 ## Authors
 👤 **Eze Promisie**
 
-- GitHub: [@Eze Promisie](https://github.com/codepantherr)
-- Twitter: [@Eze Promisie](https://twitter.com/codepantherr)
+- GitHub: [@Eze Promisie](https://github.com/codepantha)
+- Twitter: [@Eze Promisie](https://twitter.com/codepantha)
 - LinkedIn: [Eze Promisie](https://www.linkedin.com/in/promise-eze/)
 
 ## Getting Started
@@ -82,7 +82,7 @@ Read a random math-related quote.
 
 1. Clone the repo
    ```sh
-   https://github.com/codepantherr/mathMagicians.git
+   https://github.com/codepantha/mathMagicians.git
    ```
 
 2. Install NPM packages
@@ -96,7 +96,7 @@ Read a random math-related quote.
 
 ## Roadmap
 
-See the [open issues](https://github.com/codepantherr/mathMagicians/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/codepantha/mathMagicians/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
